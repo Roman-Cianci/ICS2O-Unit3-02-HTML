@@ -1,0 +1,14 @@
+.text {
+  color:brown;
+  font-size:130%;
+}
+
+#main-image {
+  background-color: aqua;
+  width: 400px;
+  border: 15px solid darkcyan;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
